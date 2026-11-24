@@ -1,8 +1,10 @@
-# Stock Trend Analyser
-## Objective
-A neural network that uses data from 2010-2017 to predict data between 2017-2020
+# stock-trend-analyser
 
-## Usage
-Clone this repository and run main.py using -  
-`streamlit run main.py`  
-Make sure you install required dependancies from requirements.txt!
+> **This repository has moved to Codeberg: <https://codeberg.org/nouritsu/stock-trend-analyser>**
+> This GitHub copy is archived and will never be updated. Its history is kept only so old links still work.
+
+This project has given up GitHub. See the Software Freedom Conservancy's [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/) campaign and Zig's [Migrating from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/) for why.
+
+Any use of this project's code by GitHub Copilot, past or present, is done without my permission.
+
+![Give Up GitHub logo](https://sfconservancy.org/static/img/GiveUpGitHub.png)
